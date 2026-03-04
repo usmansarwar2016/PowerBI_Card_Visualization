@@ -1,4 +1,4 @@
-# Column & Bar _Visualization/ Power Bi
+# Column & Bar Visualization/ Power Bi
 
 In this project I build different Column and Bar charts like 
 1) stacked bar chart 
